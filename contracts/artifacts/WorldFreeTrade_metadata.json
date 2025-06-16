@@ -430,7 +430,7 @@
 		"compilationTarget": {
 			"contracts/wft.sol": "WorldFreeTrade"
 		},
-		"evmVersion": "prague",
+		"evmVersion": "cancun",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -483,11 +483,11 @@
 			]
 		},
 		"contracts/wft.sol": {
-			"keccak256": "0x28d4b4a94960843aad62c329fb030a95796c59a45cf3e9b0b283d732277b6ad6",
+			"keccak256": "0xd968f37eb49bde471bf53fd6d799ed44bc061419eb71d25eb3893130c5a4fc84",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://149f2dfebe5510c38e577fcc009091e54a1ebb7bfa24c9b5d0a2f675ce824a90",
-				"dweb:/ipfs/QmehgpyCqsrp75gTwafKKqH6cMDG3mn29xLtxjeDpwyHUv"
+				"bzz-raw://ab92531e01ef2b4d7f10d0d5a6cc2a3ca897f9c53706dc53efff00b0d223794b",
+				"dweb:/ipfs/Qmecv4jyDkQSQx9kWrxWwj7h3opEE7CUnEc9arZ4arrdbG"
 			]
 		}
 	},
